@@ -1,0 +1,9 @@
+{
+  "name": "meteor-simple-schema",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/aldeed/meteor-simple-schema",
+  "version": "1.5.3",
+  "global": true,
+  "dependencies": {},
+  "globalDependencies": {}
+}
